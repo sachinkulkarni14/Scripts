@@ -1,3 +1,3 @@
 date
 echo "Hello"
-echo "Hello"
+echo "Hello World"
